@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=/home/varun/code/z_archive/autorun/Sauron_the_all_seeing_eye/notify_sauron_is_watching.sh
+Name=Sauron is watching warning
+Encoding=UTF-8
+Terminal=true
+Type=Application
+Categories=Application;
+X-GNOME-Autostart-Delay=5
