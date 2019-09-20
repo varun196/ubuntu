@@ -3,7 +3,7 @@
 The all-seeing keylogger. Logs on pre-defined device.
 
 ## Ignite fires of mount doom
-This will enable us to being sauron to life:  
+This will enable us to bring sauron to life:  
 
 `Install https://github.com/kernc/logkeys`
 
