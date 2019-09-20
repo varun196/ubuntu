@@ -18,7 +18,7 @@ sudo  logkeys -s --keymap /path_to_keymap/en_US_ubuntu_1204.map -d event9 --outp
 
 `--keymap` uses keymap. For ubuntu, use the above keymap.
 
-`-d` option to map device. Map external keyboard. Identify by:  
+`-d` option to map device. Identify external device by:  
 `cat /dev/input/eventX`
 
 ## Awaken Sauron on bootup
